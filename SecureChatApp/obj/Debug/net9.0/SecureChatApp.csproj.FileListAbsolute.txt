@@ -1,0 +1,5 @@
+C:\Users\bose7\OneDrive\Desktop\yapper\SecureChatApp\obj\Debug\net9.0\SecureChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bose7\OneDrive\Desktop\yapper\SecureChatApp\obj\Debug\net9.0\SecureChatApp.AssemblyInfoInputs.cache
+C:\Users\bose7\OneDrive\Desktop\yapper\SecureChatApp\obj\Debug\net9.0\SecureChatApp.AssemblyInfo.cs
+C:\Users\bose7\OneDrive\Desktop\yapper\SecureChatApp\obj\Debug\net9.0\SecureChatApp.csproj.CoreCompileInputs.cache
+C:\Users\bose7\OneDrive\Desktop\yapper\SecureChatApp\obj\Debug\net9.0\SecureChatApp.csproj.AssemblyReference.cache

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "/N8gZ8HE2kg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bose7\\OneDrive\\Desktop\\yapper\\SecureChatApp\\SecureChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bose7\\.nuget\\packages\\networkcomms.net\\3.0.3\\networkcomms.net.3.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "SecureChatApp depends on NetworkComms.Net (>= 3.0.0) but NetworkComms.Net 3.0.0 was not found. NetworkComms.Net 3.0.3 was resolved instead.",
+      "libraryId": "NetworkComms.Net",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NetworkComms.Net 3.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NetworkComms.Net",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
